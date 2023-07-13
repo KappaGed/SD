@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "*.c": "c",
+        "entry.h": "c",
+        "sdmessage.pb-c.h": "c",
+        "types.h": "c",
+        "unistd.h": "c",
+        "client_stub-private.h": "c",
+        "inet-private.h": "c",
+        "string.h": "c",
+        "socket.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "Enabled"
+}
